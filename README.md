@@ -10,8 +10,6 @@ Cada pasta possui sua própria estrutura interna e dependências independentes.
 - Vite
 - JavaScript / JSX
 - React Router
-- TailwindCSS (se usado)
-- Axios (caso exista consumo de API)
 
 ### **Mobile**
 - React Native
@@ -28,13 +26,13 @@ Cada pasta possui sua própria estrutura interna e dependências independentes.
 - Interface moderna e responsiva  
 - Componentes reutilizáveis  
 - Páginas e navegação SPA  
-- Consumo de API (se aplicado)
+
 
 ### **Mobile**
 - Interface nativa para Android e iOS  
 - Navegação entre telas  
 - Layout flexível usando Flexbox  
-- Integração com API (se aplicado)
+
 
 ---
 
